@@ -41,7 +41,7 @@ class CalculatorServiceTest {
     }
 
     @Test
-    void minus_success() {
+    void minus_success()  {
         int num1 = 5;
         int num2 = 3;
 
